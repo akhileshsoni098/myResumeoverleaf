@@ -1,0 +1,244 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy CV/Resume
+% XeLaTeX Template
+% Version 1.0 (5/5/2014)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Debarghya Das (http://www.debarghyadas.com)
+% With extensive modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important notes:
+% This template needs to be compiled with XeLaTeX.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[letterpaper]{deedy-resume} % Use US Letter paper, change to a4paper for A4 
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+% \lastupdated % Print the Last Updated text at the top right
+
+\namesection{Akhilesh}{Soni}{ % Your name
+
+\href{mailto:placements@functionup.org}{placements@functionup.org} <> 
+ {\href{https://www.linkedin.com/in/akhilesh-soni-09218716b/}{\bf LikedIn}} <> {\href{https://github.com/akhileshsoni098}{\bf GitHub}} <> Basti, Uttar Pradesh, India % Your contact information
+}
+
+
+
+%----------------------------------------------------------------------------------------
+%	LEFT COLUMN
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+
+%------------------------------------------------
+% Education
+%------------------------------------------------
+\section{About}
+\textbullet{} I always strive to expand my knowledge in programming and development. I have the ability to update and learn new
+concepts quickly and a strong desire to solve programming
+problems.Motivated, Self Starter and want to excel in the
+coding ﬁeld.I do it through a passion for work. I am always
+eager to learn new programming concepts as an enthusiastic
+person.
+
+
+\section{Education} 
+\descript{Siddharth University Kapilvastu}
+\descript{Bachelor of Science}
+\location{ July 2019 \\ Percentage-52.02 }
+\sectionspace % Some whitespace after the section
+
+
+\descript{M U Chaudhary IC, Gonda}
+\descript{Intermediate}
+\location{ June 2016 \\ Percentage: 80.40 }
+\sectionspace % Some whitespace after the section
+
+
+
+\descript{S V M HSS Baidaulagarg D S Nagar Siddthrth Nagar}
+\descript{High School}
+\location{ June 2014 \\ Percentage: 82.00 }
+
+%------------------------------------------------
+% Coursework
+%------------------------------------------------
+\sectionspace % Some whitespace after the section
+
+\section{Technical Skills}
+\textbullet{} HTML\\
+\textbullet{} CSS \\
+\textbullet{} JavaScript \\
+\textbullet{} React.Js \\
+\textbullet{} Node.Js \\
+\textbullet{} Express.Js \\
+\textbullet{} MongoDB \\
+\textbullet{} MySQL \\
+\textbullet{} AWS(S3) \\
+\textbullet{} Redis \\
+\textbullet{} Authentication\\
+\textbullet{} Git/GitHub \\
+
+\section{LINKS}
+\textbullet{}\descript{LikedIn-\href{https://www.linkedin.com/in/akhilesh-soni-09218716b/}{\bf           akhileshsoni    }}
+
+\textbullet{}\descript{GitHub-\href{https://github.com/akhileshsoni098}{\bf           akhileshsoni098     }}
+
+
+\textbullet{}\descript{LeetCode-\href{https://leetcode.com/akhil9125/}{\bf           akhil9125     }}
+
+
+
+%------------------------------------------------
+% Skills
+%------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+
+\end{minipage} % The end of the left column
+\hfill
+%
+%----------------------------------------------------------------------------------------
+%	RIGHT COLUMN
+%----------------------------------------------------------------------------------------
+%
+\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
+
+%------------------------------------------------
+% Experience
+%------------------------------------------------
+
+%------------------------------------------------
+% Research & Projects
+%------------------------------------------------
+
+%------------------------------------------------
+\section{Experience}
+
+\runsubsection{FUNCTIONUP}
+\descript{| Backend Developer Trainee }
+\location{Nov 2022 - Present}
+
+\textbullet{} As a trainee at function-Up i learnt basics of HTML and CSS, JavaScript, NodeJs, expressJs,mongodb, aws(s3),redis.\\
+\textbullet{} I have learnt to use npm packages like jsonwebtoken,stripe,exceljs,nodemailer, cloudinary and multer.\\
+\textbullet{} Worked on various projects like Url Shortner, E-Commerece Application and Movies App. \\
+\textbullet{} I got opportunity to become a Teaching Assistance.\\
+\textbullet{} Here I'm work on Business Communication Skills.
+
+
+
+\sectionspace % Some whitespace after the section
+\runsubsection{Competitive  Exam Preparation}
+\descript{| SSC,Bank,Railway }
+\location{July 2019 - Oct 2022}
+
+\textbullet{} Demonstrated strong aptitude and dedication through rigorous preparation for competitive exams. \\
+\textbullet{} Developed exceptional time management skills while balancing competitive exam preparation. \\
+\textbullet{} Utilized effective study techniques and resources to excel in competitive exams.\\
+\textbullet{} Consistently scored above-average marks in mock tests and practice exams, reflecting a solid foundation in the exam's syllabus. \\
+\textbullet{} Demonstrated exceptional problem-solving skills and analytical thinking during competitive exams.\\
+
+
+
+\section{ Projects}
+
+\descript{Project 1 }
+\descript{Url Shortner   -:   \href{https://github.com/akhileshsoni098/Url_Shortner/tree/url_Shortner}{\bf Github Link}  }
+
+
+\textbullet{} In this project I used JavaScript , Node js , mongo DB
+,Redis and in this project used Util promisify and short id
+to generate short id for links\\
+\textbullet{} \descript {Tech Stack - Node.js,Express.js and MongoDB}
+
+\sectionspace % Some whitespace after the section
+\descript{Project 2 }
+\descript{E-Commerece   -: \href{https://github.com/akhileshsoni098/e-commerce-Backend}{\bf  Github Link} }
+
+
+
+\textbullet{} I'm Used cloudinary, express-file upload to upload and store files on cloud ,node mailer to verify user sand stripe for payment. \\
+\textbullet{} \descript {Node.js,Express.js and MongoDB}
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+
+%------------------------------------------------
+\descript{Project 3 }
+\descript{Movies App   -: \href{https://github.com/akhileshsoni098/newMovieAppProject}{\bf  Github Link} }
+
+\textbullet{} In this project there are some functionality I built after registration user can post or upload movies and can add into watchlist and can remove from watchlist.
+ \\
+ \textbullet{} \descript {Tech Stack - Node.js,Express.js and MongoDB}
+ 
+
+\sectionspace % Some whitespace after the section
+%------------------------------------------------
+% Awards
+%------------------------------------------------
+
+
+\section{Interested and Achievement}
+\textbullet{} I have great Problem solving Skills . \\
+\textbullet{} I have solved 100+ problems on LeetCode. \\
+
+\textbullet{} When I am free, I handle Family Business. \\
+
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Societies
+%------------------------------------------------
+
+% \section{Interests} 
+
+% \begin{tabular}{rll}
+% Chess & 1450 Elo & Learned January 2015 and aspire to be a titled player. \\
+%  & twitch & Accepted into 'Chess.com Streamers Challenge' (September 2015)\\
+% Running & college & NCAA Division 1 Cross Country Minuteman (2014) \\
+%  & individual & Hartford ING Marathon Division Winner (2013).
+% \end{tabular}
+
+\sectionspace % Some whitespace after the section
+
+%----------------------------------------------------------------------------------------
+
+\end{minipage} % The end of the right column
+
+%----------------------------------------------------------------------------------------
+%	SECOND PAGE (EXAMPLE)
+%----------------------------------------------------------------------------------------
+
+%\newpage % Start a new page
+
+%\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+
+%\section{Example Section}
+
+%\end{minipage} % The end of the left column
+%\hfill
+%\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
+
+%\section{Example Section 2}
+
+%\end{minipage} % The end of the right column
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
